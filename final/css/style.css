@@ -1,0 +1,32 @@
+* {
+  font-family: Montserrat, Arial, Helvetica, sans-serif; }
+
+.mainSlider .slider {
+  background-image: url(../photo1/usa.jpg);
+  height: 730px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover; }
+  .mainSlider .slider .slideMiddle {
+    padding: 18rem 0; }
+  .mainSlider .slider .slbtn1 {
+    padding: 10px 19px;
+    border-radius: 0;
+    background: #8dc645;
+    color: white;
+    font-size: .75em; }
+  .mainSlider .slider .slbtn2 {
+    padding: 10px 19px;
+    border-radius: 0;
+    background: #1976bc;
+    color: white;
+    font-size: .75em; }
+  .mainSlider .slider .bb-headLine::after {
+    content: ' ';
+    display: block;
+    width: 2em;
+    margin: 0 0 .4em;
+    border-style: solid;
+    border-width: 2px 0 0; }
+
+/*# sourceMappingURL=style.css.map */
